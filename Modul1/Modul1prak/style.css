@@ -1,0 +1,45 @@
+.btn-oval {
+  border-radius: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 91px;
+  height: 30px;
+  font-size: 13px;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-image: url('hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 80px;
+}
+
+.hero .content {
+  padding: 1.4rem 7%;
+  max-width: 50rem;
+}
+
+.hero .content h1 {
+  font-size: 3em;
+  color: rgb(255, 255, 255);
+  line-height: 1.1;
+}
+
+.hero .content p {
+  font-size: 1.8em;
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+}
+
+.footerbottom {
+  color: rgb(96, 98, 100);
+  padding: 20px;
+  text-align: start;
+  position: relative;
+  top: -15px;
+  left: 132px;
+}

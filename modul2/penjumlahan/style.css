@@ -1,0 +1,7 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 10vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
